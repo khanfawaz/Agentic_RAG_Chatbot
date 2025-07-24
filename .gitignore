@@ -1,0 +1,24 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# artifacts
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# other files
+notes.txt
+
+
